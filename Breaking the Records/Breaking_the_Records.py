@@ -8,7 +8,7 @@ import sys
 
 
 def breakingRecords(scores):
-    # Write your code here
+    
     min = scores[0]
     max = scores[0]
     min_record = 0
